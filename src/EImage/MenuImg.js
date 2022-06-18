@@ -1,0 +1,51 @@
+const MenuImg = [
+  {
+    id: 1,
+    image: "./ASSETS/maggie.jpg",
+    name: "maggie",
+    category: "breakfast",
+    price: "12₨",
+    description: "my favourite food",
+  },
+  {
+    id: 2,
+    image: "./ASSETS/allu pakoda.jpg",
+    name: "allu pakoda",
+    category: "lunch",
+    price: "10₨",
+    description: "It is delicious",
+  },
+  {
+    id: 3,
+    image: "./ASSETS/corn.jpg",
+    name: "corn",
+    category: "dinner",
+    price: "20₨",
+    description: "It's healthy",
+  },
+  {
+    id: 4,
+    image: "./ASSETS/samosa.jpg",
+    name: "samosa",
+    category: "dinner",
+    price: "15₨",
+    description: "It's all time snacks",
+  },
+  {
+    id: 5,
+    image: "./ASSETS/idly.jpg",
+    name: "idly",
+    category: "breakfast",
+    price: "10₨",
+    description: "It's natural food",
+  },
+  {
+    id: 6,
+    image: "./ASSETS/DOSA.jpg",
+    name: "dosa",
+    category: "all",
+    price: "10₨",
+    description: "It's natural foosdfdfdd",
+  },
+];
+export default MenuImg;

@@ -1,0 +1,37 @@
+.img-fluid{
+    height: 220px;
+}
+.main-title h1{
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.price-book-divide h2{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fbd6ac;
+}
+.price-book-divide{
+    margin-bottom: 10px;
+}
+.row{
+    margin-right: 0;
+    margin-left: opx;
+}
+.btn-primary{
+    background-color: #4bd6ac;
+    outline: none;
+    border: none;
+    transition: all 0.3s ease-in-out;
+}
+.btn-primary:hover{
+    background-color: #00695c;
+    outline: none;
+    border: none;
+}
+.btn-warning:hover{
+    background-color: black;
+    color: whitesmoke;
+    outline: none;
+    
+}

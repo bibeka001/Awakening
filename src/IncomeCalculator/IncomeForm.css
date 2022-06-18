@@ -1,0 +1,19 @@
+/* *{
+    padding: 0;
+    margin: 0;
+}
+.income-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    border: none;
+    font-style: none;
+}
+
+.form-inner{
+    border: 3px solid goldenrod;
+    border-radius: 2px;
+    transition: 0.4s;
+} */
